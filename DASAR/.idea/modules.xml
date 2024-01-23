@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRUD/CRUD.iml" filepath="$PROJECT_DIR$/CRUD/CRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM.iml" filepath="$PROJECT_DIR$/Tutorial-KFM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/abstract/abstract.iml" filepath="$PROJECT_DIR$/OOP JAVA/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayList/arrayList.iml" filepath="$PROJECT_DIR$/arrayList/arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/constructor/constructor.iml" filepath="$PROJECT_DIR$/OOP JAVA/constructor/constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/date/date.iml" filepath="$PROJECT_DIR$/date/date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delete file/delete file.iml" filepath="$PROJECT_DIR$/delete file/delete file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/OOP JAVA/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file handling/file handling.iml" filepath="$PROJECT_DIR$/file handling/file handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashMap/hashMap.iml" filepath="$PROJECT_DIR$/hashMap/hashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashSet/hashSet.iml" filepath="$PROJECT_DIR$/hashSet/hashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/OOP JAVA/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/inner class/inner class.iml" filepath="$PROJECT_DIR$/OOP JAVA/inner class/inner class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/input/input.iml" filepath="$PROJECT_DIR$/input/input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/interface/interface.iml" filepath="$PROJECT_DIR$/OOP JAVA/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kertasGuntingBatu/kertasGuntingBatu.iml" filepath="$PROJECT_DIR$/kertasGuntingBatu/kertasGuntingBatu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/latihan1/latihan1.iml" filepath="$PROJECT_DIR$/OOP JAVA/latihan1/latihan1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/method/method.iml" filepath="$PROJECT_DIR$/OOP JAVA/method/method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/OOP JAVA/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/read file/read file.iml" filepath="$PROJECT_DIR$/read file/read file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP JAVA/reference object/reference object.iml" filepath="$PROJECT_DIR$/OOP JAVA/reference object/reference object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studiKasus/studiKasus.iml" filepath="$PROJECT_DIR$/studiKasus/studiKasus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads/threads.iml" filepath="$PROJECT_DIR$/threads/threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/write file/write file.iml" filepath="$PROJECT_DIR$/write file/write file.iml" />
+    </modules>
+  </component>
+</project>
