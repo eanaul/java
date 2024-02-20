@@ -4,7 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/CRUD/CRUD.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/CRUD/CRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/CUY/CUY.iml" filepath="$PROJECT_DIR$/CUY/CUY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GENERIC-CUY/GENERIC-CUY.iml" filepath="$PROJECT_DIR$/GENERIC-CUY/GENERIC-CUY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessNumber/GuessNumber.iml" filepath="$PROJECT_DIR$/GuessNumber/GuessNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HANGMAN-GAME/HANGMAN-GAME.iml" filepath="$PROJECT_DIR$/HANGMAN-GAME/HANGMAN-GAME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAMBDA/LAMBDA.iml" filepath="$PROJECT_DIR$/LAMBDA/LAMBDA.iml" />
       <module fileurl="file://$PROJECT_DIR$/PERPUSTAKAAN/PERPUSTAKAAN.iml" filepath="$PROJECT_DIR$/PERPUSTAKAAN/PERPUSTAKAAN.iml" />
       <module fileurl="file://$PROJECT_DIR$/SISWA/SISWA.iml" filepath="$PROJECT_DIR$/SISWA/SISWA.iml" />
       <module fileurl="file://$PROJECT_DIR$/TRANSAKSI/TRANSAKSI.iml" filepath="$PROJECT_DIR$/TRANSAKSI/TRANSAKSI.iml" />
@@ -12,12 +17,15 @@
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/abstract/abstract.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/abstract/abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/arrayList/arrayList.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/arrayList/arrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/constructor/constructor.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/constructor/constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cuySquare/cuySquare.iml" filepath="$PROJECT_DIR$/cuySquare/cuySquare.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/date/date.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/date/date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbase/dbase.iml" filepath="$PROJECT_DIR$/dbase/dbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/delete file/delete file.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/delete file/delete file.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/encapsulation/encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/enum/enum.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/enum/enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/exceptions/exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/file handling/file handling.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/file handling/file handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixingCode/fixingCode.iml" filepath="$PROJECT_DIR$/fixingCode/fixingCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/hashMap/hashMap.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/hashMap/hashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/hashSet/hashSet.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/hashSet/hashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/inheritance/inheritance.iml" />
@@ -27,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/iterator/iterator.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/iterator/iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/kertasGuntingBatu/kertasGuntingBatu.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/kertasGuntingBatu/kertasGuntingBatu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/latihan1/latihan1.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/latihan1/latihan1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/latihanFileHandling/latihanFileHandling.iml" filepath="$PROJECT_DIR$/latihanFileHandling/latihanFileHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/method/method.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/method/method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/OOP JAVA/polymorphism/polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial-KFM/read file/read file.iml" filepath="$PROJECT_DIR$/Tutorial-KFM/read file/read file.iml" />
